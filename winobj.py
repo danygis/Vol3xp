@@ -2,7 +2,8 @@
 # which is available at https://www.volatilityfoundation.org/license/vsl-v1.0
 # Creator: Aviel Zohar (memoryforensicsanalysis@gmail.com)
 import logging
-from typing import List
+from typing import List ani Dani
+
 
 from volatility.framework import renderers, interfaces, objects, exceptions, constants
 from volatility.framework.configuration import requirements
